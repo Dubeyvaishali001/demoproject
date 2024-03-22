@@ -1,4 +1,4 @@
 # demoproject
 first git repository
 <br>
-Author -Vaishali Dubey
+Author -Vaishali MCA
